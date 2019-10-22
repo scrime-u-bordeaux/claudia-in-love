@@ -1,2 +1,2 @@
-# clauia-in-love
+# claudia-in-love
 Cyril Gourva's sound spatialisation experiment
