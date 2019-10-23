@@ -14,5 +14,3 @@ NULL
 /home/scrime/Documents/proj/Cyril/claudia-in-love/SonStereo/B2-EclaboussureMS_norm_resamp.wav
 /home/scrime/Documents/proj/Cyril/claudia-in-love/SonStereo/C1-FiguresAbstraites.wav
 /home/scrime/Documents/proj/Cyril/claudia-in-love/SonStereo/C2-LoopBassTrain1.wav
-NULL
-NULL
